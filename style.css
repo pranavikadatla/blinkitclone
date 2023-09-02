@@ -89,5 +89,9 @@
 }
 .my-card{
     width:179px;
-    margin-line:10px;
+    margin-inline: 10px;
+}
+.footer{
+    margin:30px;
+    margin-bottom: 100px;
 }
