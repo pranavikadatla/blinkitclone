@@ -95,3 +95,18 @@
     margin:30px;
     margin-bottom: 100px;
 }
+@media screen and (max-width:768px){
+  nav{
+    flex-direction:column;
+  }
+  .herosection>img{
+    display:none;
+
+  }
+  nav-btns,.search-div{
+    width:90%;
+  }
+  .my-container{
+    margin-top:20px;
+  }
+  }
